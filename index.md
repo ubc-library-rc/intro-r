@@ -10,6 +10,7 @@ Do you want to learn about R but don't know where to start? This workshop is for
 This workshop is designed for **beginners** who have no or little experience in R and with opportunities for hands-on experience with sample data. Join us for this workshop and start your data analysis with R!
 
 ### Pre-workshop setup 
+
 Please bring a laptop with the R and RStudio installed **before** the workshop.
 
 1. Download and install R:
@@ -25,11 +26,10 @@ Please bring a laptop with the R and RStudio installed **before** the workshop.
 
 1. Download the data for this workshop and save it in a folder of your preference
 
-    *
+    * Data is available [here](https://github.com/ubc-library-rc/intro-r/raw/master/data.rar). You have to extract the csv files from `data.rar`
 
-    *
+    * `CarbonDioxideEmission.csv` - contains data about the emission of carbon dioxide
+ 
+    * `GlobalLandTemperaturesByCountry.csv` - contains data about earth average temperature on a certain date
 
-    *
 
-
-<img src="{{site.baseurl}}/content/figures/correlation.png">
