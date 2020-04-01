@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub
+# Introduction to R for Statistical Analysis
 
 ### UBC Library Research Commons
 
