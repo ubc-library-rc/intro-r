@@ -2,7 +2,7 @@
 layout: default
 title: Setup
 ---
-## Introduction to Git and GitHub
+## Introduction to R for Statistical Analysis
 
 Do you want to learn about R but don't know where to start? This workshop is for you! R is a popular free software program used for quantitative analysis in both the humanities and sciences. Many state-of-the-art models and various graphs are available in R. This introductory level R workshop discusses the R & RStudio environment, basic data preparation and management, descriptive statistics, and common statistical analysis (T-test, ANOVA, correlation, etc). 
 
