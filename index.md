@@ -32,4 +32,4 @@ Please bring a laptop with the R and RStudio installed **before** the workshop.
  
     * `GlobalLandTemperaturesByCountry.csv` - contains data about earth average temperature on a certain date
 
-
+1. Add a small description about yourself in [this document](https://docs.google.com/document/d/1NSgZucRWe1UCAsNc0wjlN9JssWdVAcI2gvSqkDeGL_o/edit?usp=sharing)
