@@ -5,7 +5,7 @@ search_enabled: false
 aux_links:
   "UBC Library Research Commons Workshops":
     - "https://researchcommons.library.ubc.ca/workshops/"
-github_repo_url: "https://github.com/ubc-library-rc/REPOSITORY-NAME/" 
+github_repo_url: "https://github.com/ubc-library-rc/intro-r/" 
 
 # license information for workshop content
 license_name: "Creative Commons Attribution 4.0 International License"
